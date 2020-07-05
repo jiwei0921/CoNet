@@ -50,10 +50,6 @@ All common RGB-D Saliency Datasets we collected are shared in ready-to-use manne
 ```
 
 
-## Related SOTA RGB-D methods' results on our dataset
-
-Meanwhile, we also provide other state-of-the-art RGB-D methods' results on our proposed dataset, and you can directly download their results ([All results](https://pan.baidu.com/s/1spuFNQl7FJiDPFSOS55lnw),2gs2).     
-
 + Thanks for related authors to provide the code or results, particularly, [Deng-ping Fan](http://dpfan.net), [Hao Chen](https://github.com/haochen593), [Chun-biao Zhu](https://github.com/ChunbiaoZhu), etc. 
 
 ### Contact Us
