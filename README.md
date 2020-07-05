@@ -1,2 +1,61 @@
 # CoNet
-Code for ECCV 2020 paper. "Accurate RGB-D Salient Object Detection via Collaborative Learning"
+Code repository for our paper entilted "Accurate RGB-D Salient Object Detection via Collaborative Learning"  accepted at ICCV 2019 (poster).
+
+
+# Overall
+![avatar](https://github.com/jiwei0921/DMRA/blob/master/figure/overall.png)
+
+
+## CoNet Code
+
+### > Requirment
++ pytorch 1.0.0+
++ torchvision
++ PIL
++ numpy
+
+### > Usage
+#### 1. Clone the repo
+```
+git clone https://github.com/jiwei0921/CoNet.git
+cd DMRA/
+```
+
+#### 2. Train/Test
++ test     
+Coming Soon.
+
++ train     
+Coming Soon.
+
+
+### > Results  
+
++ Note:  For evaluation, all results are implemented on this ready-to-use [toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
+
+  
+### > Related RGB-D Saliency Datasets
+All common RGB-D Saliency Datasets we collected are shared in ready-to-use manner.       
++ The web link is [here](https://github.com/jiwei0921/RGBD-SOD-datasets).
+
+
+### If you think this work is helpful, please cite
+```
+@InProceedings{Wei_2020_ECCV,       
+   author = {Wei {Ji} and Jingjing {Li} and Miao {Zhang} and Yongri {Piao} and Huchuan {Lu}},   
+   title = {Accurate RGB-D Salient Object Detection via Collaborative Learning},     
+   booktitle = "ECCV",     
+   year = {2020}     
+}  
+```
+
+
+## Related SOTA RGB-D methods' results on our dataset
+
+Meanwhile, we also provide other state-of-the-art RGB-D methods' results on our proposed dataset, and you can directly download their results ([All results](https://pan.baidu.com/s/1spuFNQl7FJiDPFSOS55lnw),2gs2).     
+
++ Thanks for related authors to provide the code or results, particularly, [Deng-ping Fan](http://dpfan.net), [Hao Chen](https://github.com/haochen593), [Chun-biao Zhu](https://github.com/ChunbiaoZhu), etc. 
+
+### Contact Us
+If you have any questions, please contact us ( weiji.dlut@gmail.com ).
+
