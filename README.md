@@ -1,5 +1,5 @@
 # CoNet
-Code repository for our paper entilted "Accurate RGB-D Salient Object Detection via Collaborative Learning"  accepted at ICCV 2019 (poster).
+Code repository for our paper entilted "Accurate RGB-D Salient Object Detection via Collaborative Learning"  accepted at ECCV 2020 (poster).
 
 
 # Overall
@@ -18,7 +18,7 @@ Code repository for our paper entilted "Accurate RGB-D Salient Object Detection 
 #### 1. Clone the repo
 ```
 git clone https://github.com/jiwei0921/CoNet.git
-cd DMRA/
+cd CoNet/
 ```
 
 #### 2. Train/Test
