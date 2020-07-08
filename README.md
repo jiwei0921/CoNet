@@ -20,7 +20,7 @@ Code repository for our paper entilted "Accurate RGB-D Salient Object Detection 
 git clone https://github.com/jiwei0921/CoNet.git
 cd CoNet/
 ```
-
+ 
 #### 2. Train/Test
 + test     
 Coming Soon.
