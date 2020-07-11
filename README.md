@@ -53,6 +53,6 @@ All common RGB-D Saliency Datasets we collected are shared in ready-to-use manne
 + Thanks for related authors to provide the code or results, particularly, [Deng-ping Fan](http://dpfan.net), [Hao Chen](https://github.com/haochen593), [Chun-biao Zhu](https://github.com/ChunbiaoZhu), etc. 
 
 ### Contact Us
-More details can be found in [Github Wei Ji.](https://github.com/jiwei0921/CoNet)
+More details can be found in [Github Wei Ji.](https://github.com/jiwei0921/CoNet)    
 If you have any questions, please contact us ( weiji.dlut@gmail.com ).
 
