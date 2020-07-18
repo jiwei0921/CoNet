@@ -32,10 +32,11 @@ python demo.py
 ```
 
 + train     
-Our training dataset link. You need to set dataset path and checkpoint name correctly. 
-'--phase' as **train** in demo.py  
-'--param' as **True or False** in demo.py    
-Note: True means loading checkpoint and False means no loading checkpoint.  
+Our training dataset link. You need to set dataset path and checkpoint name correctly.     
+
+'--phase' as **train** in demo.py      
+'--param' as **True or False** in demo.py        
+Note: True means loading checkpoint and False means no loading checkpoint.      
 ```
 python demo.py
 ```
