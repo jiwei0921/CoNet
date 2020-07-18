@@ -23,7 +23,7 @@ cd CoNet/
  
 #### 2. Train/Test
 + test     
-Our test datasets link and checkpoint link. You need to set dataset path and checkpoint name correctly.        
+Our test datasets [link](https://github.com/jiwei0921/RGBD-SOD-datasets) and checkpoint [link](https://pan.baidu.com/s/1ceRpBrSjIxM0ut3t8awDfg) code is **12yn**. You need to set dataset path and checkpoint name correctly.        
 
 '--phase' as **test** in demo.py   
 '--param' as **True** in demo.py  
@@ -32,7 +32,7 @@ python demo.py
 ```
 
 + train     
-Our training dataset link. You need to set dataset path and checkpoint name correctly.     
+Our training dataset [link](https://pan.baidu.com/s/1EMKE7pwLg70sfYvQQAB1kA) code is **203g**. You need to set dataset path and checkpoint name correctly.     
 
 '--phase' as **train** in demo.py      
 '--param' as **True or False** in demo.py        
@@ -42,7 +42,7 @@ python demo.py
 ```
 
 ### > Results  
-We provide [saliency maps](https://pan.baidu.com/s/1CfprRJ7Dw9FWHaTr7va-vA) (code: zjzq) of our CoNet on 8 datasets (DUT-RGBD, STEREO, NJUD, LFSD, RGBD135, NLPR, SSD, SIP).
+We provide [saliency maps](https://pan.baidu.com/s/1hQH89lhzgR3fk2Y3eI_Jww) (code: qrs2) of our CoNet on 8 datasets (DUT-RGBD, STEREO, NJUD, LFSD, RGBD135, NLPR, SSD, SIP) as well as 2 extended datasets (NJU2k and STERE1000) refer to CPFP_CVPR19.
 + Note:  For evaluation, all results are implemented on this ready-to-use [toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
 
   
