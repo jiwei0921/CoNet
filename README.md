@@ -42,6 +42,8 @@ python demo.py
 ```
 
 ### > Results  
+![avatar](https://github.com/jiwei0921/CoNet/blob/master/Comparison.png)     
+  
 We provide [saliency maps](https://pan.baidu.com/s/1hQH89lhzgR3fk2Y3eI_Jww) (code: qrs2) of our CoNet on 8 datasets (DUT-RGBD, STEREO, NJUD, LFSD, RGBD135, NLPR, SSD, SIP) as well as 2 extended datasets (NJU2k and STERE1000) refer to CPFP_CVPR19.
 + Note:  For evaluation, all results are implemented on this ready-to-use [toolbox](https://github.com/jiwei0921/Saliency-Evaluation-Toolbox).
 
