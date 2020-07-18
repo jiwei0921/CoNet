@@ -23,8 +23,9 @@ cd CoNet/
  
 #### 2. Train/Test
 + test     
-Our test datasets link and checkpoint link. You need to set dataset path and checkpoint name correctly. 
-'--phase' as **test** in demo.py  
+Our test datasets link and checkpoint link. You need to set dataset path and checkpoint name correctly.        
+
+'--phase' as **test** in demo.py   
 '--param' as **True** in demo.py  
 ```
 python demo.py
@@ -33,7 +34,8 @@ python demo.py
 + train     
 Our training dataset link. You need to set dataset path and checkpoint name correctly. 
 '--phase' as **train** in demo.py  
-'--param' as **True or False** in demo.py  True means loading checkpoint and False means no loading checkpoint.  
+'--param' as **True or False** in demo.py    
+Note: True means loading checkpoint and False means no loading checkpoint.  
 ```
 python demo.py
 ```
