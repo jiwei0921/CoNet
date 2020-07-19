@@ -3,7 +3,7 @@ Code repository for our paper entilted "Accurate RGB-D Salient Object Detection 
 
 
 # Overall
-![avatar](https://github.com/jiwei0921/CoNet/blob/master/overall111.png)
+![avatar](https://github.com/jiwei0921/CoNet/blob/master/overall111.png) 
 
 
 ## CoNet Code
