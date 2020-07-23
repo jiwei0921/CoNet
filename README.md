@@ -62,7 +62,7 @@ All common RGB-D Saliency Datasets we collected are shared in ready-to-use manne
 }  
 ```
 
-
++ For more info about CoNet, please read the [Manuscript(Google Drive)](https://drive.google.com/file/d/112I5mmWCTvCr9lAaGNLc8NYTMNkHbxeE/view?usp=sharing).    
 + Thanks for related authors to provide the code or results, particularly, [Deng-ping Fan](http://dpfan.net), [Hao Chen](https://github.com/haochen593), [Chun-biao Zhu](https://github.com/ChunbiaoZhu), etc. 
 
 ### Contact Us
