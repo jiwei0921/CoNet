@@ -67,5 +67,5 @@ All common RGB-D Saliency Datasets we collected are shared in ready-to-use manne
 
 ### Contact Us
 More details can be found in [Github Wei Ji.](https://github.com/jiwei0921/)    
-If you have any questions, please contact us ( weiji.dlut@gmail.com ).
+If you have any questions, please contact us ( weiji.dlut@gmail.com ). 
 
