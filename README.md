@@ -55,9 +55,9 @@ All common RGB-D Saliency Datasets we collected are shared in ready-to-use manne
 ### If you think this work is helpful, please cite
 ```
 @InProceedings{Wei_2020_ECCV,       
-   author = {Wei {Ji} and Jingjing {Li} and Miao {Zhang} and Yongri {Piao} and Huchuan {Lu}},   
-   title = {Accurate RGB-D Salient Object Detection via Collaborative Learning},     
-   booktitle = "ECCV",     
+   author={Ji, Wei and Li, Jingjing and Zhang, Miao and Piao, Yongri and Lu, Huchuan},  
+   title = {Accurate {RGB-D} Salient Object Detection via Collaborative Learning},     
+   booktitle = {European Conference on Computer Vision},     
    year = {2020}     
 }  
 ```
